@@ -1,4 +1,5 @@
 Airbnb Intro:
+
 Airbnb has provided many travellers a great, easy and convenient place to stay during their travels.
 Similarly, it has also given an opportunity for many to earn extra revenue by listing their properties for residents to stay.
 However, with so many listings available with varying prices, how can an aspiring host know what type of property to invest in if his main aim is to list it in Airbnb and earn rental revenue.
