@@ -16,7 +16,7 @@ import pydeck as pdk  # For map visualization
 
 
 def m():
-    uri = "mongodb+srv://yaazhisai:3fkuoaLSaadjIJ3n@airbnbcluster.hpe0k23.mongodb.net/?retryWrites=true&w=majority&appName=airbnbcluster"
+    uri = "mongodb+srv://..."
 
         # Create a new client and connect to the server
     client = MongoClient(uri, server_api=ServerApi('1'))
